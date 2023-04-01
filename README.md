@@ -8,6 +8,20 @@ This project involved creating a backend API using Spring Boot and Java which wo
 
 ## Running the Application
 
+1. Initialise MySQL database with name employee_creator_backend
+
+       CREATE DATABASE postcode_backend
+       
+2. Set up the API in Spring in production/src/main/resources/application.properties
+
+       spring.datasource.url=jdbc:mysql://localhost:3306/postcode_backend
+       spring.datasource.username=root
+       spring.datasource.password=<YOUR_ROOT_PASSWORD>
+       spring.jpa.hibernate.ddl-auto=update
+       spring.jpa.generate-ddl=true
+       
+3. Run the Spring API using an IDE of your choice
+
 ## Tech Stack
 
 Spring Boot: To build and test the backend with the relevant dependancies. 
@@ -22,8 +36,6 @@ The requirements of the project were to:
 - To have a secured API endpoint to add new suburb and postcode combinations
 - To have persistence
 - To have tests for controller/service layers
-
-## Design 
 
 ## Features
 - POST, GET and Delete of postcode data
