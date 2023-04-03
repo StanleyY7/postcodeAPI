@@ -26,9 +26,9 @@ This project involved creating a backend API using Spring Boot and Java which wo
 
 ## Tech Stack
 
-Spring Boot: To build and test the backend with the relevant dependancies. 
-MySQL: To build a scalable and reliable relational database.
-Java: To build the backend, used for it's scalability and integration of other frameworks/technologies (i.e. Spring Boot).
+- Spring Boot: To build and test the backend with the relevant dependancies. 
+- MySQL: To build a scalable and reliable relational database.
+- Java: To build the backend, used for it's scalability and integration of other frameworks/technologies (i.e. Spring Boot).
 
 ## MVP
 
