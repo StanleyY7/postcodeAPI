@@ -6,7 +6,7 @@ A backend API project developed using Spring and Java.
 
 ## Overview
 
-This project involved creating a backend API using Spring Boot and Java which would enable a consumer of the API to do CRUD operations. It is also designed to be RESTful so that it can scale.
+This project involved creating a backend API using Spring Boot and Java which would enable a consumer of the API to do some CRUD (GET and POST) operations. It is also designed to be RESTful so that it can scale.
 
 ## Running the Application
 
@@ -40,7 +40,7 @@ The requirements of the project were to:
 - To have tests for controller/service layers
 
 ## Features
-- POST, GET and Delete of postcode data
+- POST and GET of postcode data
 - Allows a user to Get by suburb and/or Get by postcode
 - RESTful
 - Persistence through MySQL workbench database
