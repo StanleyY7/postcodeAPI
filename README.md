@@ -4,6 +4,8 @@ A backend API project developed using Spring and Java.
 
 ![postCodeApi](https://user-images.githubusercontent.com/119549394/229388338-b510837b-78db-45b0-8606-a7d7e140777c.PNG)
 
+<img width="250" src="https://github.com/StanleyY7/postcodeAPI/actions/workflows/main.yml/badge.svg"/>
+
 ## Overview
 
 This project involved creating a backend API using Spring Boot and Java which would enable a consumer of the API to do some CRUD (GET and POST) operations. It is also designed to be RESTful so that it can scale.
