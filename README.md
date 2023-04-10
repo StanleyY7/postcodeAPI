@@ -47,4 +47,5 @@ The requirements of the project were to:
 - RESTful
 - Persistence through MySQL workbench database
 - Testing
+- Authentication via Basic Auth of a specified route
 
