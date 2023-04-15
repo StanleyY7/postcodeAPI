@@ -36,8 +36,8 @@ This project involved creating a backend API using Spring Boot and Java which wo
 
 The requirements of the project were to:
 
-- To create an API in Java that would allow mobile clients to retrieve and add suburb/postcode combinations.
-- To have a secured API endpoint to add new suburb and postcode combinations
+- To create an API in Java that would allow mobile clients to retrieve and add unique suburb/postcode combinations.
+- To have a secured API endpoint to add new unique suburb and postcode combinations
 - To have persistence
 - To have tests for controller/service layers
 
